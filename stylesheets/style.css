@@ -17,6 +17,9 @@
     bottom: 0;
     width: 1920px;
 }
+.t-container {
+    position: relative;
+}
 .header-nav {
     width: 100%;
     height: 40px;
